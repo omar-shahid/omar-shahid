@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center">Freelance Frontend Developer</h3>
 
-- 🌱 I’m currently learning **DSA, Nest JS, and Next JS**
+- 🌱 Proficient in React JS and its ecosystem (Zustand, Redux, React Query, Next.js, etc)
 
 - 👨‍💻 All of my projects are available at [https://github.com/omar-shahid](https://github.com/omar-shahid)
 
 - 💬 Ask me about **Frontend development, God of War <span style="color: red; background-color: red;">Ω</span>, Miles Morales 🕷🕸, and Batman 🦇**
 
-- 📫 How to reach me **muhammadomarshahid4@gmail.com**
+- 📫 How to reach me **omarshahid160@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
